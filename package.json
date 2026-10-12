@@ -1,0 +1,14 @@
+{
+  "name": "dssol",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deepsyke Solutions marketing site — advertising and AI SMS campaigns.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
