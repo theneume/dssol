@@ -1,5 +1,5 @@
 // CONTACT: change this address to your real inbox
-const CONTACT_EMAIL = 'hello@deepsyke.com';
+const CONTACT_EMAIL = 'leo@deepsyke.com';
 
 const nav = document.getElementById('nav');
 addEventListener('scroll', () => nav.classList.toggle('scrolled', scrollY > 30), { passive: true });

@@ -215,3 +215,6 @@ footer{border-top:1px solid var(--line);padding:46px 0;color:var(--mute);font-si
   .logo{justify-content:center}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}.msg{opacity:1;transform:none}}
+
+.lead a, footer a { color: var(--volt); text-decoration: none; border-bottom: 1px solid rgba(245,185,33,.4); }
+.lead a:hover, footer a:hover { border-bottom-color: var(--volt); }
